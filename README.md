@@ -3,6 +3,7 @@
 A brief description of the project.
 
 **Technologies Used**
+<br />
 Vite
 TypeScript
 React
@@ -13,14 +14,16 @@ Docker
 Docker Compose
 
 **Prerequisites**
-Node.js (v18.15.0LTS or higher)
+<br />
+Node.js (v18.15.0 LTS or higher)
 Docker (Docker desktop)
 Docker Compose
 
 **Getting Started**
+<br />
 
 1. Clone the repository https://github.com/hsengivc/react-ts-docker.git and navigate to the project directory.
-2. Run docker compose up
+2. Run > **docker compose up**
 3. Open your browser and go to http://localhost:8080
 
 **Linting and Formatting**
