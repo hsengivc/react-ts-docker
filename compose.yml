@@ -2,7 +2,7 @@ version: '3.9'
 
 services:
   app:
-    container_name: react-bootstrap-dockerised
+    container_name: react-ts-docker
     image: node:18.15.0-alpine
     volumes:
       - ./:/app
